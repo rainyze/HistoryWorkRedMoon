@@ -1,0 +1,4 @@
+repository "new-repository@Dof@cloud"
+  path "/"
+    br "/main"
+    co "/main"
